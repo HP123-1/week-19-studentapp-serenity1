@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Student CURD test with steps","Verify if the student was added to the application","ERROR","2022-01-10T21:05:19.701Z[Europe/London]","0.0","0.49"
+"Student CURD test with steps","Update the user information and verify the updated information","FAILURE","2022-01-10T21:05:20.501Z[Europe/London]","0.0","0.18"
